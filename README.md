@@ -5,5 +5,20 @@ During this module, the university created a mock proposal, this was a business 
 
 Assessment 1:
 
-Lean Canvas \n
+Lean Canvas 
 Risk register
+
+Assessment 2: 
+
+Top - Level Use Case diagram 
+User Stories
+Software Product Quality Requirements
+User Storyboards
+
+Assessment 3:
+
+UML Activity Diagram
+Gap Analysis
+UML Class Diagram
+Porters 5 forces
+Reflctive Report
