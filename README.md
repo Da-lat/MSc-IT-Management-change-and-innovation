@@ -6,7 +6,7 @@ During this module, the university created a mock proposal, this was a business 
 Assessment 1:
 
 Lean Canvas   
-Risk register    
+Risk Register    
 
 Assessment 2: 
 
